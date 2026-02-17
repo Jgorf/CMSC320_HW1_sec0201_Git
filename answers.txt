@@ -19,3 +19,9 @@ between the current snapshots of the branches and the common ancestor of the bra
 changes since the ancestor can be seen and used in merge. Rebasing is taking all the changes that 
 were commited on one branch and replaying them on a different branch. It is useful if you want to 
 update the start of your branch to a later commit that happend after you branched out.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning Pandas, data science principles and how to solve problems relating to data. I am 
+also interested in learning how to make useful analysis, experiments, learn ML, and get real world 
+experience by making a group project that predicts / explains a problem in the world.
